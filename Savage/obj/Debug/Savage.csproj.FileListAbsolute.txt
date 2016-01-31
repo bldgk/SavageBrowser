@@ -1,0 +1,17 @@
+W:\Projects\githubprojects\web_browser\Savage\Savage\bin\Debug\Savage.exe.config
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\App.g.cs
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\Savage_MarkupCompile.cache
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\Savage_MarkupCompile.lref
+W:\Projects\githubprojects\web_browser\Savage\Savage\bin\Debug\Savage.exe
+W:\Projects\githubprojects\web_browser\Savage\Savage\bin\Debug\Savage.pdb
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\Savage.g.resources
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\Savage.Properties.Resources.resources
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\Savage.csproj.GenerateResource.Cache
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\Savage.exe
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\Savage.pdb
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\View\UserControls\SavageControl.g.cs
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\View\UserControls\SavageControl.baml
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\View\MainWindow.g.cs
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\View\MainWindow.baml
+W:\Projects\githubprojects\web_browser\Savage\Savage\obj\Debug\Savage.csprojResolveAssemblyReference.cache

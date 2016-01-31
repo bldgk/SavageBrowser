@@ -1,0 +1,5 @@
+W:\Projects\githubprojects\web_browser\Savage\SavageCore\obj\Debug\SavageCore.csprojResolveAssemblyReference.cache
+W:\Projects\githubprojects\web_browser\Savage\SavageCore\bin\Debug\SavageCore.dll
+W:\Projects\githubprojects\web_browser\Savage\SavageCore\bin\Debug\SavageCore.pdb
+W:\Projects\githubprojects\web_browser\Savage\SavageCore\obj\Debug\SavageCore.dll
+W:\Projects\githubprojects\web_browser\Savage\SavageCore\obj\Debug\SavageCore.pdb
